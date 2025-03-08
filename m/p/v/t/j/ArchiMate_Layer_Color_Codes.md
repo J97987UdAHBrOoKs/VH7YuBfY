@@ -5,7 +5,6 @@
 | Strategy | f5deaa | (245,222,170) |
 | Business | ffffb5 | (255,255,181) |
 | Application | b5ffff | (181,255,255) |
-| Technology & Physical | c9e7b7 | (201,231,183) |
 | Motivation | ccccff | (204,204,255) |
 | Implementation & Migration | ffe0e0 | (255,224,224) |
 
