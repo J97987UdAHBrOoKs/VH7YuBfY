@@ -8,7 +8,6 @@ ignore:
   - "**/*.stories.jsx"
 coverage:
   status:
-    project:
       default:
         informational: true
         # Commits pushed to master should not make the overall
