@@ -3,7 +3,6 @@ deps
 /node_modules
 /assets/node_modules
 /doc
-erl_crash.dump
 **/_build
 /db
 **/deps
