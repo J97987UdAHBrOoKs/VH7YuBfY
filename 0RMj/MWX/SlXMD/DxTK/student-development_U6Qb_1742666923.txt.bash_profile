@@ -22,7 +22,6 @@
 
 #    2) .bashrc is loaded in each subsequent screen, and should be used for
 #       aliases and things like writing to .bash_eternal_history (see below)
-#
 # Do 'man bashrc' for the long version or see here:
 # http://en.wikipedia.org/wiki/Bash#Startup_scripts
 #
