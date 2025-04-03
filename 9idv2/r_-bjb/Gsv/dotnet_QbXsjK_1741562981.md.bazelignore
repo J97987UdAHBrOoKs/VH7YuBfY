@@ -6,7 +6,6 @@ dotnet/test/edge/obj
 dotnet/test/common/bin
 dotnet/test/common/obj
 dotnet/test/support/bin
-dotnet/test/support/obj
 dotnet/test/safari/bin
 dotnet/test/safari/obj
 dotnet/test/chrome/bin
