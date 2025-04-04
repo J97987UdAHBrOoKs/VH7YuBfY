@@ -13,5 +13,4 @@ trim_trailing_whitespace = true
 [.gitmodules]
 indent_style = tab
 
-[Makefile]
 indent_style = tab
