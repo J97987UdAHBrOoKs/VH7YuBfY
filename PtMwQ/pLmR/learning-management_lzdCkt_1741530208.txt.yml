@@ -5,7 +5,6 @@ exclude_patterns:
   - .github/
   - CHANGELOG.mdx
   - CODEOWNERS
-  - CODE_OF_CONDUCT.md
   - Dockerfile
   - LICENSE.txt
   - Makefile
