@@ -35,7 +35,6 @@
 #
 #   2) When a login shell exits, Bash reads and executes commands from the
 #      file ~/.bash_logout, if it exists.
-#
 #   3) When an interactive shell that is not a login shell is started
 #      (e.g. a GNU screen session), Bash reads and executes commands from
 #      ~/.bashrc, if that file exists. This may be inhibited by using the
