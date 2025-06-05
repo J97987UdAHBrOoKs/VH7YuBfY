@@ -41,7 +41,6 @@ Click **Make a contribution** at the bottom of any docs page to make small chang
  <img src="./assets/images/contribution_cta.png" width="300" height="150" /> 
 
 #### Make changes locally
-1. [Install Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage).
 2. Fork the repository.
 - Using GitHub Desktop:
   - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Desktop.
