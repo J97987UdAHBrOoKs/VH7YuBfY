@@ -4,7 +4,6 @@ docs
 .circleci
 tmp
 scripts
-.idea
 .git/
 database.yaml
 contrib/quickstart
