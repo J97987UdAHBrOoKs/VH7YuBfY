@@ -1,0 +1,7 @@
+numpy==1.16.2
+bunch
+psutil
+tables
+ruamel.yaml
+cython
+auto-sklearn==0.3.0
